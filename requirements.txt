@@ -3,5 +3,5 @@ instructor
 groq
 typing
 pydantic
-atomic_agents
+git+https://github.com/BrainBlend-AI/atomic-agents.git
 html
