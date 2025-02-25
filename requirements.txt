@@ -1,0 +1,7 @@
+streamlit
+instructor
+groq
+typing
+pydantic
+atomic_agents
+html
