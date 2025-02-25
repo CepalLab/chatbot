@@ -1,7 +1,5 @@
 streamlit
 instructor
 groq
-typing
 pydantic
-git+https://github.com/BrainBlend-AI/atomic-agents.git
-html
+git+https://github.com/BrainBlend-AI/atomic-agents.git#egg=atomic_agents
