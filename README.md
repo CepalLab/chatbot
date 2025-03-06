@@ -1,6 +1,6 @@
 # Chatbot de la CEPAL
 
-Este repositorio contiene el código fuente para un chatbot desarrollado para la Comisión Económica para América Latina y el Caribe (CEPAL).  El chatbot está construido utilizando Streamlit para la interfaz de usuario y se integra con un modelo de lenguaje grande (LLM) a través de la API de Groq.
+Este repositorio contiene el código fuente para un chatbot experimental desarrollado para la Comisión Económica para América Latina y el Caribe (CEPAL).  El chatbot está construido utilizando Streamlit para la interfaz de usuario y se integra con un modelo de lenguaje grande (LLM) a través de la API de Groq.
 
 ## Funcionalidades
 
